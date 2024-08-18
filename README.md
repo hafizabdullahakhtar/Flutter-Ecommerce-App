@@ -14,9 +14,6 @@ Welcome to the **Flutter Ecommerce App** repository! This project showcases a co
 - **Light and Dark Theme:** Supports both light and dark themes.
 
 <div align="center">
-  <img src="./images/main.webp" alt="Register" width="600"/>
-</div>
-<div align="center">
   <img src="./images/onboarding.webp" alt="Register" width="600"/>
 </div>
 
