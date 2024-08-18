@@ -14,10 +14,10 @@ Welcome to the **Flutter Ecommerce App** repository! This project showcases a co
 - **Light and Dark Theme:** Supports both light and dark themes.
 
 <div align="center">
-  <img src="./main.webp" alt="Register" width="600"/>
+  <img src="./images/main.webp" alt="Register" width="600"/>
 </div>
 <div align="center">
-  <img src="./onboarding.webp" alt="Register" width="600"/>
+  <img src="./images/onboarding.webp" alt="Register" width="600"/>
 </div>
 
 ### Login
@@ -30,7 +30,7 @@ Welcome to the **Flutter Ecommerce App** repository! This project showcases a co
 - **Forget Password:** Password recovery process.
 
 <div align="center">
-  <img src="./login.webp" alt="Login" width="600"/>
+  <img src="./images/login.webp" alt="Login" width="600"/>
 </div>
 
 ### Register
@@ -43,7 +43,7 @@ Welcome to the **Flutter Ecommerce App** repository! This project showcases a co
 - **Register via Facebook:** Register via Facebook.
 
 <div align="center">
-  <img src="./register.webp" alt="Register" width="600"/>
+  <img src="./images/register.webp" alt="Register" width="600"/>
 </div>
 
 ### Verify Email Success Screen
@@ -54,7 +54,7 @@ Welcome to the **Flutter Ecommerce App** repository! This project showcases a co
 - **Light & Dark Mode:** Supports both light and dark themes.
 
 <div align="center">
-  <img src="./verify_email.webp" alt="Verify Email Success Screen" width="600"/>
+  <img src="./images/verify_email.webp" alt="Verify Email Success Screen" width="600"/>
 </div>
 
 ### Store
@@ -65,7 +65,7 @@ Welcome to the **Flutter Ecommerce App** repository! This project showcases a co
 - **Top Rated Products:** View top-rated products.
 
 <div align="center">
-  <img src="./store.webp" alt="Store" width="600"/>
+  <img src="./images/store.webp" alt="Store" width="600"/>
 </div>
 
 ### Product Details
@@ -75,7 +75,7 @@ Welcome to the **Flutter Ecommerce App** repository! This project showcases a co
 - **Reviews:** Read and submit product reviews.
 
 <div align="center">
-  <img src="./product_details.webp" alt="Product Details" width="600"/>
+  <img src="./images/product_details.webp" alt="Product Details" width="600"/>
 </div>
 
 ### Cart
@@ -88,7 +88,7 @@ Welcome to the **Flutter Ecommerce App** repository! This project showcases a co
 - **Fixed Bottom Checkout:** Checkout button fixed at the bottom.
 
 <div align="center">
-  <img src="./cart.webp" alt="Cart" width="600"/>
+  <img src="./images/cart.webp" alt="Cart" width="600"/>
 </div>
 
 ### Checkout
@@ -97,7 +97,7 @@ Welcome to the **Flutter Ecommerce App** repository! This project showcases a co
 - **Confirmation:** Confirmation screen upon successful purchase.
 
 <div align="center">
-  <img src="./checkout.webp" alt="Checkout" width="600"/>
+  <img src="./images/checkout.webp" alt="Checkout" width="600"/>
 </div>
 
 ### Orders
@@ -108,7 +108,7 @@ Welcome to the **Flutter Ecommerce App** repository! This project showcases a co
 - **Delivered Order:** Status for delivered orders.
 
 <div align="center">
-  <img src="./orders.webp" alt="Orders" width="600"/>
+  <img src="./images/orders.webp" alt="Orders" width="600"/>
 </div>
 
 ### Profile Screen
@@ -119,5 +119,5 @@ Welcome to the **Flutter Ecommerce App** repository! This project showcases a co
 - **Close Account:** Option to close the user account.
 
 <div align="center">
-  <img src="./profile_screen.webp" alt="Profile Screen" width="600"/>
+  <img src="./images/profile_screen.webp" alt="Profile Screen" width="600"/>
 </div>
